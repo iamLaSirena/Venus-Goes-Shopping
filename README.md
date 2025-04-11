@@ -1,4 +1,4 @@
-# Venus-Goes-Shopping
+
 # Venus Goes Shopping 🌸🛍️✨  
 *A stylish, soulful and smart shopping companion for women who shop with beauty and meaning.*
 
