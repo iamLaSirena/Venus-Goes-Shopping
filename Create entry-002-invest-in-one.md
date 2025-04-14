@@ -1,8 +1,5 @@
 ---
-title: "Invest in One"
-entry: 002
-date: 2025-04-14
-tags: [protocol, style, luxury, wisdom]
+venus-protocol/entry-002-invest-in-one.md
 ---
 
 ## Venus Protocol — Entry 002: *Invest in One*
