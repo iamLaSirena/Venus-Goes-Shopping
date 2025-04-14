@@ -1,3 +1,4 @@
+![Venus Goes Shopping Banner](./venus-goes-shopping-banner.png)
 
 # Venus Goes Shopping 🌸🛍️✨  
 *A stylish, soulful and smart shopping companion for women who shop with beauty and meaning.*
