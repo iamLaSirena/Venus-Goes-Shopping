@@ -3,7 +3,7 @@
 **Date:** April 26, 2025  
 **Section:** parfumerie  
 **Category:** energetic imprint  
-**Fragrance:** [insert the perfume name you bought for your 36th birthday]
+**Fragrance:** [Halston Halston eau de cologne]
 
 ---
 
